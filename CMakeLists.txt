@@ -18,3 +18,6 @@ target_link_libraries(flappy_girl glfw ${GLFW_LIBRARIES})
 
 # glm
 include_directories(glm)
+
+# self
+include_directories(include)
